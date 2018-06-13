@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "loanId": "1",
+      "txnTimeStmp": "2018-01-03 20:00:00",
+      "newInterestRate": "3.0",
+      "oldInterestRate": "2.3"		
+    }
+  ]
+}
